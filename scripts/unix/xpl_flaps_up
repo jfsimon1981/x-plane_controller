@@ -1,0 +1,1 @@
+printf "CMND\0sim/flight_controls/flaps_up\0" | nc -u 10.0.3.10 49000
